@@ -79,6 +79,9 @@ section .title-section h2{
 #parceiros{
 	background-color: #B18B0F;
 }
+#parceiros .bg-parceiros .title-section{
+	height: 450px;
+}
 #parceiros .bg-parceiros .title-section ul{
 	position: absolute;
 	bottom: 0px;
@@ -401,5 +404,73 @@ nav ul li:hover a{
 /* VERIFICAR COM CALMA */
 .active_ {
 	background-color: red;
+}
+
+/* DEVICES MOBILE */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+	#forum .bg-forum {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	section .title-section{
+		height: 100px;
+	}
+	#parceiros .bg-parceiros{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	#parceiros .bg-parceiros .title-section ul li img{
+		width:100%;
+	}
+	#parceiros .bg-parceiros .title-section{
+		height: 230px;
+	}
+	section .title-section h2{
+		font-size:34px;
+	}
+	section p{
+		font-size: 12px;
+	}
+	.work a .details{
+		bottom: auto;
+	}
+	.work a .details h4{
+		font-size:10px;
+	}
+	.work a .details .name i{
+		font-size: 10px;
+	}
+	.work a .details p{
+		text-align: center;
+	}
+	.wrap-programacao-gray{
+		padding:2px 8px;
+	}
+	.wrap-programacao-gray h3{
+		font-size: 42px;
+		padding: 24px 0;
+	}
+	.palestrantes-programacao-local .bg-local h3{
+		font-size: 54px;
+		padding: 10px 0;
+	}
+	.palestrantes-programacao-local .bg-local .compress-text-local{
+		padding-top: 4px;
+	}
+	#paineis .bg-paines{
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	#paineis .wrap-paineis-yellow h3{
+		font-size: 54px;
+		padding:20px;
+	}
+	.box-address-footer{
+		padding-bottom: 0px;
+	}
+	.none-line-top{
+		border-top:0 !important;
+	}
 }
 

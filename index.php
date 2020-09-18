@@ -10,7 +10,6 @@
 </head>
 <body>
 
-
 	<nav class="menu">
 		<ul>
 			<li><a href="#forum">O Fórum</a></li>
@@ -29,11 +28,39 @@
 		</ul>
 	</nav>
 
+
+
+<!-- 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Features</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Pricing</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+ -->
+
+    
+
 	<header>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<img src="assets/images/logos_FORUM_SLOGAN.webp" alt="FORUM SLOGAN">
+					<img class="img-fluid" src="assets/images/logos_FORUM_SLOGAN.webp" alt="FORUM SLOGAN">
 				</div>
 			</div>
 			<div class="row">
@@ -50,7 +77,6 @@
 			</div>
 		</div>
 	</header>
-
 
 	<!-- section forum -->
 	<section id="forum">
@@ -85,7 +111,7 @@
 			<div class="bg-parceiros">
 				<div class="row">
 					<div class="col-md-12">
-						<div class="title-section" style="height: 450px;">
+						<div class="title-section">
 							<h2>Parceiros</h2>
 								<ul>
 									<li><img src="assets/images/logo_league.webp" alt=""></li>
@@ -254,7 +280,7 @@
 								</div>
 							</div>
 							<div class="col-md-6">
-								<div class="box-time line-top">
+								<div class="box-time line-top none-line-top">
 									<h4>13:30</h4>
 									<p>Almoço de Networking</p>
 								</div>
@@ -529,6 +555,7 @@
 
 	<!-- <script src="https://code.jquery.com/jquery-3.5.1.js"></script> -->
 	<script src="assets/js/jquery.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/script.js"></script>
 </body>
 </html>
