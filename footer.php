@@ -25,11 +25,11 @@
 					<div class="logo-and-socials ico">
 						<p><a href="#">www.ccab.org.br</a></p>
 						<ul>
-							<li><a href="#"><img src="assets/images/facebook.png"></a></li>
-							<li><a href="#"><img src="assets/images/instagram.png"></a></li>
-							<li><a href="#"><img src="assets/images/youtube.png"></a></li>
-							<li><a href="#"><img src="assets/images/linkedin.png"></a></li>
-							<li><a href="#"><img src="assets/images/twitter.png"></a></li>
+							<li><a href="https://www.facebook.com/CamaraArabeBrasileira" target="_blank"><img src="assets/images/facebook.png"></a></li>
+							<li><a href="https://www.instagram.com/arabbrazilianchamberofcommerce/" target="_blank"><img src="assets/images/instagram.png"></a></li>
+							<li><a href="https://www.youtube.com/user/ArabBrazilianChamber" target="_blank"><img src="assets/images/youtube.png"></a></li>
+							<li><a href="https://www.linkedin.com/company/arabbrazilian-chamber-of-commerce/" target="_blank"><img src="assets/images/linkedin.png"></a></li>
+							<li><a href="https://twitter.com/abcc_mea" target="_blank"><img src="assets/images/twitter.png"></a></li>
 						</ul>
 					</div>
 					<address>
