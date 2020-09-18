@@ -49,6 +49,34 @@ section .title-section h2{
 }
 /* End - Standard */
 
+
+/* Curriculo */
+
+#curriculo {
+	margin-top: 100px;	
+}
+#curriculo img{
+	width: 100%;
+}
+#curriculo .bg-oil-blue{
+	background-color: #003060;
+	padding:100px 50px; 
+}
+#curriculo .bg-oil-blue h3{
+	color: #D9A704;
+	font-weight: bold;
+}
+#curriculo .bg-oil-blue h5{
+	color: #D9A704;
+	font-family: serif;
+}
+#curriculo .bg-oil-blue p{
+	color:#FFF;
+	font-weight:100;
+	font-size:14px;
+	text-align: left;
+}
+
 /*Section 1*/
 
 #forum{

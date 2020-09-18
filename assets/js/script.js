@@ -29,7 +29,6 @@ $(function(){
 		$(this).parent().addClass('active');
 	});
 
-
 	const menuItems = document.querySelectorAll('.menu a[href^="#"]');
 
 	function getScrollTopByHref(element) {
