@@ -1,27 +1,5 @@
 $(function(){
 
-
-	/* Marca os links quando em cima de cada session */
-/*	var links = $('.menu a');
-
-	$(window).scroll(function() {
-		var topScroll = $(window).scrollTop();
-		links.each(function(){
-			var href = $(this).attr('href');
-			var el = $(href);
-			var posSection = el.offset().top;
-			var hSection = el.height();
-
-			if(posSection <= topScroll && (posSection + topScroll) > topScroll){
-				links.removeClass('active');
-				$(this).addClass('active');
-
-			}else {
-				$(this).removeClass('active');
-			}
-		});
-	});*/
-
 	/* Adiciona class active */
 	$('.menu a[href^="#"]').click(function(e) {
 		e.preventDefault();
@@ -29,10 +7,30 @@ $(function(){
 		$(this).parent().addClass('active');
 	});
 
+	/* Botão que surge no rodapé p/ levar até o topo.*/
+	$(window).scroll(function (e) {
+		if ($(this).scrollTop() > 4500) {
+			$('.topo').fadeIn();
+		} else {
+			$('.topo').fadeOut();
+		}
+	});
+
+	$('.topo').click(function (e) {
+		e.preventDefault();
+		$('html, body').animate({
+			scrollTop: 0
+		}, 500)
+	});
+
 	const menuItems = document.querySelectorAll('.menu a[href^="#"]');
 
 	function getScrollTopByHref(element) {
 		const id = element.getAttribute('href');
+
+		if(!$(id).length)/* Retorna ao index se não encontrar ids */
+			return location.href = './'+id;
+
 		return document.querySelector(id).offsetTop;
 	}
 

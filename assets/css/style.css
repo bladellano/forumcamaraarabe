@@ -49,6 +49,24 @@ section .title-section h2{
 }
 /* End - Standard */
 
+.topo {
+    background-color: #D9A704;
+    width: 40px;
+    height: 40px;
+    color: #FFF;
+    text-align: center;
+    padding-top: 2px;
+    cursor: pointer;
+    z-index: 4;
+    border-radius: 50%;
+    font-size: 20px;
+    position: fixed;
+    bottom: 16px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+}
+
 /* Tables */
 .table.table-bordered tr td,
 .table.table-bordered thead tr th{

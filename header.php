@@ -18,7 +18,7 @@
 			<li><a href="#programacao">Programação</a></li>
 			<li><a href="#parceiros">Parceiros</a></li>
 			<li><a href="#paineis">Painéis</a></li>
-			<li><a href="#local">Local</a></li>
+			<!-- <li><a href="#local">Local</a></li> -->
 			<li class="not-hover">
 				<ul class="flags">
 					<li><a href="#"><img src="assets/images/Brasil_icon.webp" alt=""></a></li>

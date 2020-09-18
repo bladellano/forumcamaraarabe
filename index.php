@@ -1,8 +1,4 @@
-<?php 
-
-require("header.php");
-
-?>
+<?php require("header.php"); ?>
 
 <header>
 	<div class="container">
@@ -11,11 +7,11 @@ require("header.php");
 				<img class="img-fluid" src="assets/images/logo-novo-kv.png" alt="FORUM SLOGAN">
 			</div>
 		</div>
-		<div class="row">
+	<!-- 	<div class="row">
 			<div class="col-md-12 text-center">
 				<img class="img-fluid" src="assets/images/Banner_aviso_siteWIX.webp" alt="FORUM SLOGAN">
 			</div>
-		</div>
+		</div> -->
 		<div class="row">
 			<div class="col-md-12 text-center">
 				<div class="alert-header">
@@ -536,7 +532,7 @@ require("header.php");
 			</div><!--wrap-programacao-gray-->
 		</section>
 
-		<section id="local">
+		<section id="local" style="display: none"> 
 
 			<div class="bg-local" >				
 				<div class="row">
@@ -563,7 +559,7 @@ require("header.php");
 
 	</div> <!--container-->
 
-	<section id="map">		
+	<section id="map" style="display: none">		
 
 		<div class="container-fluid pl-0 pb-5">
 			<div class="row justify-content-start">
@@ -575,7 +571,7 @@ require("header.php");
 			</div>
 		</div>
 	</div>
-
+</section>
 </div>
 
 
@@ -655,63 +651,4 @@ require("header.php");
 	</div>
 </section>
 
-<!-- footer -->
-<footer>
-	<div class="container">			
-		<div class="row">
-			<div class="col-md-4">
-				<div class="box-address-footer">
-					<div class="logo-and-socials logo">
-						<img src="assets/images/Logo_CCAB_Branco.webp">
-					</div>
-					<address>
-						<strong>Matriz</strong><br/>
-						<strong>Brasil - São Paulo</strong><br/>
-						Av Paulista 283/287, - 10º andar<br/>
-						CEP: 01310-000 - São Paulo/SP - Brazil
-					</address>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="box-address-footer">
-					<div class="logo-and-socials ico">
-						<p><a href="#">www.ccab.org.br</a></p>
-						<ul>
-							<li><a href="#"><img src="assets/images/facebook.png"></a></li>
-							<li><a href="#"><img src="assets/images/instagram.png"></a></li>
-							<li><a href="#"><img src="assets/images/youtube.png"></a></li>
-							<li><a href="#"><img src="assets/images/linkedin.png"></a></li>
-							<li><a href="#"><img src="assets/images/twitter.png"></a></li>
-						</ul>
-					</div>
-					<address>
-						<strong>Filial</strong><br/>
-						<strong>Brasil - Santa Catarina</strong><br/>
-						Av. Coronel Marcos Konder, 1207 cj 10
-						CEP: 88301-303 Itajaí SC
-					</address>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="box-address-footer">
-					<div class="logo-and-socials logo">
-						<img src="assets/images/Logo_ANBA_white_.webp">
-					</div>
-					<address>						
-						<strong>Filial Internacional</strong><br/>
-						<strong>Emirados Árabes Unidos - Dubai</strong><br/>
-						Escritório Internacional em Dubai
-						One JLT, 5º andar
-						Jumeirah Lake Towers
-					</address>
-				</div>
-			</div>
-		</div>
-	</div>
-</footer>
-
-<script src="assets/js/jquery.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/script.js"></script>
-</body>
-</html>
+<?php require("footer.php"); ?>
