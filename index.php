@@ -10,6 +10,7 @@
 </head>
 <body>
 
+
 	<nav class="menu">
 		<ul>
 			<li><a href="#forum">O Fórum</a></li>
@@ -29,32 +30,37 @@
 	</nav>
 
 
+	<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="display:none">
+		<a class="navbar-brand" href="#">Fórum Econômico</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNav">
+			<ul class="navbar-nav">
+				<li class="nav-item active">
+					<a class="nav-link" href="#forum">O Fórum</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#palestrantes">Palestrantes</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#programacao">Programação</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#parceiros">Parceiros</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#paineis">Painéis</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#local">Local</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
 
-<!-- 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
-      </li>
-    </ul>
-  </div>
-</nav>
- -->
 
-    
+
 
 	<header>
 		<div class="container">
@@ -113,11 +119,11 @@
 					<div class="col-md-12">
 						<div class="title-section">
 							<h2>Parceiros</h2>
-								<ul>
-									<li><img src="assets/images/logo_league.webp" alt=""></li>
-									<li><img src="assets/images/Logo_ANBA.webp" alt=""></li>
-									<li><img src="assets/images/logo_UNIAO.webp" alt=""></li>
-								</ul>
+							<ul>
+								<li><img src="assets/images/logo_league.webp" alt=""></li>
+								<li><img src="assets/images/Logo_ANBA.webp" alt=""></li>
+								<li><img src="assets/images/logo_UNIAO.webp" alt=""></li>
+							</ul>
 						</div>
 					</div>
 				</div>

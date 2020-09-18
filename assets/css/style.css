@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap');
 
-:root {
-	--cor-primaria:#183459;
-	--cor-secundaria:#E58928;
-}
-
 * {
 	margin:0;
 	padding:0;
@@ -472,5 +467,29 @@ nav ul li:hover a{
 	.none-line-top{
 		border-top:0 !important;
 	}
+	nav {
+		width: auto;
+		top: 0;
+		transform: none;
+	}
+	nav a{
+		padding:0;
+		color:#FFF;
+	}
+	nav ul li{
+		background-color: transparent!important;
+	}
+	.navbar{
+		background-color: #D9A704;
+		opacity: .9;
+		display: block!important;
+	}
+	.menu{
+		display: none;
+	}
+	.navbar-toggler{
+		float: right;
+	}
+
 }
 
