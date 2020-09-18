@@ -397,8 +397,8 @@ nav ul li:hover a{
 }
 
 /* VERIFICAR COM CALMA */
-.active_ {
-	background-color: red;
+.active {
+	background-color: #D9A704;
 }
 
 /* DEVICES MOBILE */

@@ -10,7 +10,7 @@
 </head>
 <body>
 
-
+	<!-- Menu desktop -->
 	<nav class="menu">
 		<ul>
 			<li><a href="#forum">O Fórum</a></li>
@@ -21,15 +21,15 @@
 			<li><a href="#local">Local</a></li>
 			<li class="not-hover">
 				<ul class="flags">
-					<li><img src="assets/images/Brasil_icon.webp" alt=""></li>
-					<li><img src="assets/images/Arab_League.webp" alt=""></li>
-					<li><img src="assets/images/IN_icon.webp" alt=""></li>
+					<li><a href="#"><img src="assets/images/Brasil_icon.webp" alt=""></a></li>
+					<li><a href="#"><img src="assets/images/Arab_League.webp" alt=""></a></li>
+					<li><a href="#"><img src="assets/images/IN_icon.webp" alt=""></a></li>
 				</ul>
 			</li>
 		</ul>
 	</nav>
 
-
+	<!-- Menu mobile -->
 	<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="display:none">
 		<a class="navbar-brand" href="#">Fórum Econômico</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -81,7 +81,7 @@
 		</div>
 	</header>
 
-	<!-- section forum -->
+	<!-- forum -->
 	<section id="forum">
 		<div class="container">
 			<div class="bg-forum">

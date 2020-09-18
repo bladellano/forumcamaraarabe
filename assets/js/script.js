@@ -1,6 +1,8 @@
 $(function(){
 
-	var links = $('.menu a');
+
+	/* Marca os links quando em cima de cada session */
+/*	var links = $('.menu a');
 
 	$(window).scroll(function() {
 		var topScroll = $(window).scrollTop();
@@ -18,7 +20,15 @@ $(function(){
 				$(this).removeClass('active');
 			}
 		});
+	});*/
+
+	/* Adiciona class active */
+	$('.menu a[href^="#"]').click(function(e) {
+		e.preventDefault();
+		$('.menu a[href^="#"]').parent().removeClass('active');
+		$(this).parent().addClass('active');
 	});
+
 
 	const menuItems = document.querySelectorAll('.menu a[href^="#"]');
 
