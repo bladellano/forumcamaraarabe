@@ -21,9 +21,9 @@
 			<!-- <li><a href="#local">Local</a></li> -->
 			<li class="not-hover">
 				<ul class="flags">
-					<li><a href="#"><img src="assets/images/Brasil_icon.webp" alt=""></a></li>
+					<li><a href="../"><img src="assets/images/Brasil_icon.webp" alt=""></a></li>
 					<li><a href="#"><img src="assets/images/Arab_League.webp" alt=""></a></li>
-					<li><a href="#"><img src="assets/images/IN_icon.webp" alt=""></a></li>
+					<li><a href="./"><img src="assets/images/IN_icon.webp" alt=""></a></li>
 				</ul>
 			</li>
 		</ul>
