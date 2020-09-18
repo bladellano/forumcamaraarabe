@@ -38,11 +38,11 @@
 			<div class="row">
 				<div class="col-md-6">
 					<p>
-					O FÓRUM ECONÔMICO BRASIL & PAÍSES ÁRABES é organizado pela Câmara Árabe junto com a União das Câmaras Árabes e com apoio da Liga dos Estados Árabes, com o objetivo de promover e estreitar as relações comerciais e culturais entre os países, propondo uma reflexão sobre como estas relações podem crescer e se fortalecer de forma sustentável.</p>
+					O FÓRUM ECONÔMICO BRASIL &amp; PAÍSES ÁRABES, edição especial online, terá como tema “O Futuro é Agora”. O evento, que será realizado de 19 a 22 de outubro de 2020, é organizado pela Câmara Árabe junto com a União das Câmaras Árabes e com apoio da Liga dos Estados Árabes.</p>
 				</div>
 				<div class="col-md-6">
-					<p>A Câmara de Comércio Árabe-Brasileira olha para o futuro e isso significa manter-se em linha com as tendências, sem esquecer que o futuro é feito de ações no presente.	​
-					MUDANDO PARADIGMAS E CONECTANDO PESSOAS</p>
+					<p>O objetivo do Fórum é de promover e estreitar as relações comerciais e culturais entre os países, propondo uma reflexão sobre como estas relações podem crescer e se fortalecer de forma sustentável.</p>
+					<p>A Câmara de Comércio Árabe-Brasileira olha para o futuro e isso significa manter-se em linha com as tendências, sem esquecer que o futuro é feito de ações no presente.</p>
 				</div>
 			</div>
 		</div>
@@ -589,25 +589,33 @@
 							<div class="col-md-6">
 								<div class="box-painel-blue" style="background-image: url(assets/images/bg-40.jpg);">
 									<div class="wrap" >
-										<h5>ECONOMIA 4.0</h5>
-										<p>Explorando novos potenciais no comércio internacional</p>
+										<h5>19.10 | O FUTURO É AGORA: PERSPECTIVAS PARA O BRASIL E OS PAÍSES ÁRABES NO NOVO CENÁRIO GLOBAL</h5>
+										<p>O ano de 2020 nos faz repensar a maneira como conduzimos nossas vidas e interagimos em sociedade. O reordenamento na maneira que os governos conduzem o desenvolvimento de seus Estados e perante o ambiente internacional; a forma como líderes de grandes empresas atuam no mercado e, principalmente, o que a sociedade priorizará a partir de agora. Não há dúvida que um novo formato pautado na cooperação, no compartilhamento e no olhar coletivo está em voga e independente de onde se atue, o não olhar para esse movimento fará com que nos isolemos diante da nova realidade global</p>
 										<p>
-											A economia no mundo digital, as tecnologias disruptivas e o crescimento do empreendedorismo tanto no Brasil quanto no mundo árabe trazem impactos diretos no comércio internacional por meio de fintechs, blockchain e  inteligência artificial.
+											PRINCIPAIS PONTOS A SEREM ABORDADOS:
+											<br/>- Cenário atual: Qual o contexto global Pós-COVID 19 – com ênfase na economia global e comércio internacional 
+											<br/>- Principais temas para fomentarmos parcerias entre Brasil e o Mundo Árabe 
+											<br/>- Posicionamento e oportunidades entre Brasil e Países Árabe: Construindo novas plataformas de cooperação? 
+											<br/>- O papel das Câmaras de Comércio e do setor privado nesse novo contexto
 
-										Colaboração entre o Brasil e o mundo árabe em termos de benchmarking, troca de conhecimento e tecnologia.</p>
-										<p>Moderador: <strong>Khaled Hanafy</strong>
-										Secretário-Geral / União das Câmaras Árabes</p>
+										</p>
 									</div>
 								</div>									
 							</div>
 							<div class="col-md-6">
 								<div class="box-painel-blue" style="background-image: url(assets/images/bg-map-tec.jpg);">
 									<div class="wrap">
-										<h5>MOVIMENTOS GLOBAIS</h5>
-										<p>Impactos na economia local</p>
-										<p>Place branding e seus impactos econômicos para cidades, países e regiões que sediam eventos globais como EXPO 2020 Dubai, Copa do Mundo FIFA, Olimpíadas, G-20, entre outros.
+										<h5>20.10 | UMA NOVA ORDEM DOS NEGÓCIOS INTERNACIONAIS? </h5>
+										<p>O mundo subitamente passou por um processo de fechamento de fronteiras, espaço aéreo limitado, limitação a grandes multidões. Porém, ao mesmo tempo, a tecnologia permitiu estarmos mais conectados do que nunca. Podemos dizer que passamos por uma reestruturação na forma de conduzirmos o comércio internacional? Há novas prioridades seja no produto, na qualidade, no modelo de parcerias internacionais? Como o problema sanitário que enfrentamos pode afetar ou alterar a cadeia de produção de produtos?  </p>
+										<p>
+											PRINCIPAIS PONTOS A SEREM ABORDADOS 
+											<br/>- A nova forma de fazer negócios no mercado internacional 
+											<br/>- transitando do físico para o digital; 
+											<br/>- Cooperação nunca fez tanto sentido: rediscutir a relação Brasil – Países Árabes;
+											<br/>- O papel da ciência e tecnologia na competitividade das empresas e países;
+											<br/>- O universo do e-Commerce;
 
-										Eventos como estes são alavancas para o estreitamento de relações e para o fomento de negócios em todas as esferas. A dinamização dos setores impactados, sobretudo turismo e serviços como legado para a economia.</p>
+										</p>
 									</div>
 								</div>
 							</div>
@@ -618,26 +626,28 @@
 							<div class="col-md-6">
 								<div class="box-painel-blue" style="background-image: url(assets/images/bg-planta.jpg);">
 									<div class="wrap">
-										<h5>DESENVOLVIMENTO SUSTENTÁVEL</h5>
-										<p>Melhores práticas e oportunidades de investimento</p>
-										<p>Estratégias de desenvolvimento ao fomento de investimento e sua importância para o desenvolvimento sustentável, tanto do Brasil quanto dos países árabes.
-
-										Melhores práticas e benefícios para o desenvolvimento econômico, social e ambiental por meio de parcerias entre os setores público e privado nas duas regiões.  Temas que estão na agenda global como economia azul e nova matriz energética, e a atuação do setor privado nessas temáticas.</p>
-										<p>Moderador: <strong>Khaled Hanafy</strong>
-										Secretário-Geral / União das Câmaras Árabes</p>
+										<h5>21.10 | SEGURANÇA ALIMENTAR: UMA PARCERIA ESTRATÉGICA ENTRE BRASIL E O MUNDO ÁRABE? </h5>
+										<p>Tema mais sensível e estratégico na relação Brasil – Países Árabes e com o contexto COVID-19 acelerou políticas de países que importam mais de 50% do que é consumido internamente com objetivo de garantir a longo prazo o aumento da produção em território nacional. Investimento em novas tecnologias, fomento a internacionalização de empresas, investimento em mercadores que suprem sua demanda interna e conseguem exportar o excedente. Porém, além de buscar atender a segurança alimentar a preocupação de segurança do alimento toma mais atenção, sendo necessário discutir e redefinir acordos sanitários, evitar barreiras não-tarifárias. O consumidor preocupa-se muito mais com a origem do produto, como ele foi produzido e qual a cadeia até chegar a sua mesa.</p>
+										<p>PRINCIPAIS PONTOS A SEREM ABORDADOS 
+											<br/>- O papel estratégico da segurança alimentar entre Brasil e Países Árabes; 
+											<br/>- Confiança, Transparência e rastreabilidade na cadeia de alimentos; 
+											<br/>- Além da segurança do alimento a sanidade do alimento torna-se prioritário; 
+											<br/>- A tecnologia e know-how do setor como diferencial do Brasil.
+										</p>
 									</div>
 								</div>									
 							</div>
 							<div class="col-md-6">
 								<div class="box-painel-blue" style="background-image: url(assets/images/bg-lab.jpg);">
 									<div class="wrap">
-										<h5>SEGURANÇA ALIMENTAR</h5>
-										<p>Oportunidades Estratégicas</p>
-										<p>Alimentar a população mundial é um dos principais desafios da atualidade, nesse contexto a segurança alimentar emerge como tema de atenção prioritária.
-
-										Entre Brasil e Países Árabes existe complementariedade e sinergia para a construção de uma estratégia que garanta a segurança alimentar, através da otimização da produção de maneira sustentável, por meio de investimentos em inovação, tecnologia e P&D, com olhar para toda cadeia produtiva, logística e infraestrutura necessária, criando oportunidades agregadoras e complementares.</p>
-										<p>Moderador: <strong>Khaled Hanafy</strong>
-										Secretário-Geral / União das Câmaras Árabes</p>
+										<h5>22.10 | GOVERNANÇA AMBIENTAL, SOCIAL E CORPORATIVA (ESG) – RELEVÂNCIA NO CONTEXTO ATUAL </h5>
+										<p>Governos, executivos, investidores, influenciadores, consumidores: todos não admitem mais o modelo econômico baseado somente na produção e consumo. A consciência em uma economia sustentável, ética, que traga ganhos para todos, que se baseie no social – na responsabilidade do setor privado na sociedade, nas políticas públicas, ambiental e econômica nunca esteve tanto em voga e influenciado o direcionamento e decisões quanto à onde investir, onde comprar e, também, na agregação de valor do produto, do país, da empresa. Faz-se importante nesse momento discutir a agenda ESG e a condução dela no Brasil e Países Árabes. </p>
+										<p>PRINCIPAIS PONTOS A SEREM ABORDADOS
+											<br/>- Relevância da ESG* no contexto internacional: Impacto no futuro econômico das empresas e na atração de investimentos; 
+											<br/>- “O papel do Halal no desenvolvimento sustentável” ou “do Halal para o Halal Sustentável”; 
+											<br/>- O papel e importância das Câmaras de Comércio na agenda;
+											<br/>- As Câmaras de Comércio como agentes impulsionadores na agenda da Governança Ambiental, Social e Corporativa;
+										</p>
 									</div>
 								</div>
 							</div>
