@@ -59,14 +59,11 @@
 		</div>
 	</nav>
 
-
-
-
 	<header>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<img class="img-fluid" src="assets/images/logos_FORUM_SLOGAN.webp" alt="FORUM SLOGAN">
+					<img class="img-fluid" src="assets/images/logo-novo-kv.png" alt="FORUM SLOGAN">
 				</div>
 			</div>
 			<div class="row">
@@ -115,7 +112,7 @@
 	<section id="parceiros">
 		<div class="container">
 			<div class="bg-parceiros">
-				<div class="row">
+				<div class="row pb-5">
 					<div class="col-md-12">
 						<div class="title-section">
 							<h2>Parceiros</h2>
@@ -131,24 +128,9 @@
 		</div>
 	</section>
 
-
-
-
-
-
-
-
-
-
-
-
 	<!-- palestrantes-programacao-local -->
 	<div class="palestrantes-programacao-local" >
-
-
 		<div class="container">
-
-
 
 			<section id="palestrantes">
 
@@ -270,8 +252,6 @@
 
 			</section>
 
-
-
 			<section id="programacao">
 
 				<div class="wrap-programacao-gray" >
@@ -389,8 +369,6 @@
 				</div><!--wrap-programacao-gray-->
 			</section>
 
-
-
 			<section id="local">
 
 				<div class="bg-local" >				
@@ -416,8 +394,6 @@
 
 			</section>
 
-
-
 		</div> <!--container-->
 
 		<section id="map">		
@@ -434,8 +410,6 @@
 		</div>
 
 	</div>
-
-
 
 
 	<!-- paines -->
@@ -514,7 +488,6 @@
 		</div>
 	</section>
 
-
 	<!-- footer -->
 	<footer>
 		<div class="container">			
@@ -570,7 +543,6 @@
 		</div>
 	</footer>
 
-	<!-- <script src="https://code.jquery.com/jquery-3.5.1.js"></script> -->
 	<script src="assets/js/jquery.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/script.js"></script>
