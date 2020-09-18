@@ -201,9 +201,231 @@ require("header.php");
 
 			<div class="wrap-programacao-gray" >
 				<h3>|Programação</h3>
-				<div class="bg-programacao-dark">
+				<div class="bg-programacao-dark" style="padding: 30px;">
 
 					<div class="row">
+						<div class="col-md-12">
+							<!-- I -->
+							<table class="table table-striped table-dark table-sm table-bordered">
+								<thead>
+									<tr>
+										<th rowspan="2" style="width: 25%">HORÁRIO</th>
+										<th colspan="2" class="text-warning display-4">19 DE OUTUBRO (SEGUNDA-FEIRA)</th>
+									</tr>
+									<tr>
+										<td class="text-center">TEMA</td>
+										<td>ESTRUTURA</td>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>08h30 às 08h35</td>
+										<td rowspan="10" style="width: 40%;padding-top: 100px;" class="text-center">
+											O FUTURO É AGORA: PERSPECTIVAS PARA O BRASIL E OS PAÍSES ÁRABES NO NOVO
+										CENÁRIO GLOBAL</td>
+										<td>Atrações e Abertura</td>
+									</tr>
+									<tr>
+										<td>08h35 às 10h00</td>
+										<td>ABERTURA SOLENE</td>
+									</tr>
+									<tr>
+										<td>10h00  às 10h05</td>
+										<td>Abertura da Exposição dos Patrocinadores</td>
+									</tr>
+									<tr>
+										<td>10h05 às 10h15</td>
+										<td>Intervalo</td>
+									</tr>
+									<tr>
+										<td>10h15 às 10h35</td>
+										<td>PALESTRA</td>
+									</tr>
+									<tr>
+										<td>10h35 às 12h05</td>
+										<td>PAINEL</td>
+									</tr>
+									<tr>
+										<td>12h05 às 12h15</td>
+										<td>Intervalo</td>
+									</tr>
+									<tr>
+										<td>12h15 às 12h45</td>
+										<td>CEO TALK</td>
+									</tr>
+									<tr>
+										<td>12h45 às 13h15</td>
+										<td>Discussão entre Câmaras</td>
+									</tr>
+									<tr>
+										<td>13h15 às 13h30</td>
+										<td>Encerramento</td>
+									</tr>
+								</tbody>
+							</table>
+
+							<!-- II -->
+
+							<table class="table table-striped table-dark table-sm table-bordered">
+								<thead>
+									<tr>
+										<th rowspan="2" style="width: 25%">HORÁRIO</th>
+										<th colspan="2" class="text-warning display-4">20 DE OUTUBRO (TERÇA-FEIRA)	
+										</th>
+									</tr>
+									<tr>
+										<td class="text-center">TEMA</td>
+										<td>ESTRUTURA</td>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>09h00 às 09h05</td>
+										<td rowspan="8" style="width: 40%;padding-top: 100px;" class="text-center">
+										UMA NOVA ORDEM DOS NEGÓCIOS INTERNACIONAIS?</td>
+										<td>Abertura</td>
+									</tr>
+									<tr>
+										<td>09h05 às 09h35</td>
+										<td>PALESTRA</td>
+									</tr>
+									<tr>
+										<td>09h35 às 09h45</td>
+										<td>Intervalo</td>
+									</tr>
+									<tr>
+										<td>09h45 às 11h15</td>
+										<td>PAINEL</td>
+									</tr>
+									<tr>
+										<td>11h15 às 11h30</td>
+										<td>Intervalo</td>
+									</tr>
+									<tr>
+										<td>11h30 às 12h00</td>
+										<td>CEO TALK</td>
+									</tr>
+									<tr>
+										<td>12h00 às 12h30</td>
+										<td>Discussão entre Câmaras</td>
+									</tr>
+									<tr>
+										<td>12h30 às 13h00</td>
+										<td>Encerramento</td>
+									</tr>
+									
+								</tbody>
+							</table>
+
+							<!-- III -->
+
+							<table class="table table-striped table-dark table-sm table-bordered">
+								<thead>
+									<tr>
+										<th rowspan="2" style="width: 25%">HORÁRIO</th>
+										<th colspan="2" class="text-warning display-4">21 DE OUTUBRO (QUARTA-FEIRA)	</th>
+									</tr>
+									<tr>
+										<td class="text-center">TEMA</td>
+										<td>ESTRUTURA</td>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>09h00 às 09h05</td>
+										<td rowspan="10" style="width: 40%;padding-top: 100px;" class="text-center">
+										SEGURANÇA ALIMENTAR: UMA PARCERIA ESTRATÉGICA ENTRE BRASIL E O MUNDO ÁRABE?</td>
+										<td>Abertura</td>
+									</tr>
+									<tr>
+										<td>09h05 às 09h35</td>
+										<td>PALESTRA</td>
+									</tr>
+									<tr>
+										<td>09h35 às 09h45</td>
+										<td>Intervalo</td>
+									</tr>
+									<tr>
+										<td>09h45 às 11h15</td>
+										<td>PAINEL</td>
+									</tr>
+									<tr>
+										<td>11h15 às 11h30</td>
+										<td>Intervalo</td>
+									</tr>
+									<tr>
+										<td>11h30 às 12h00</td>
+										<td>CEO TALK</td>
+									</tr>
+									<tr>
+										<td>12h00 às 12h30</td>
+										<td>Discussão entre Câmaras</td>
+									</tr>
+									<tr>
+										<td>12h30 às 13h00</td>
+										<td>Encerramento</td>
+									</tr>
+									
+								</tbody>
+							</table>
+
+							<!-- IV -->
+
+							<table class="table table-striped table-dark table-sm table-bordered">
+								<thead>
+									<tr>
+										<th rowspan="2" style="width: 25%">HORÁRIO</th>
+										<th colspan="2" class="text-warning display-4">22 DE OUTUBRO (QUINTA-FEIRA)	</th>
+									</tr>
+									<tr>
+										<td class="text-center">TEMA</td>
+										<td>ESTRUTURA</td>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>09h00 às 09h05</td>
+										<td rowspan="10" style="width: 40%;padding-top: 100px;" class="text-center">
+										GOVERNANÇA AMBIENTAL, SOCIAL E CORPORATIVA (ESG) RELEVÂNCIA NO CONTEXTO ATUAL</td>
+										<td>Abertura</td>
+									</tr>
+									<tr>
+										<td>09h05 às 09h35</td>
+										<td>PALESTRA</td>
+									</tr>
+									<tr>
+										<td>09h35 às 09h45</td>
+										<td>Intervalo</td>
+									</tr>
+									<tr>
+										<td>09h45 às 11h15</td>
+										<td>PAINEL</td>
+									</tr>
+									<tr>
+										<td>11h15 às 11h30</td>
+										<td>Intervalo</td>
+									</tr>
+									<tr>
+										<td>11h30 às 12h00</td>
+										<td>CEO TALK</td>
+									</tr>
+									<tr>
+										<td>12h00 às 12h30</td>
+										<td>Discussão entre Câmaras</td>
+									</tr>
+									<tr>
+										<td>12h30 às 13h30</td>
+										<td>Cerimônia de ENCERRAMENTO</td>
+									</tr>
+
+								</tbody>
+							</table>
+
+						</div>
+					</div>
+
+
+					<!-- <div class="row">
 						<div class="col-md-6">
 							<div class="box-time line-top">
 								<h4>8:00</h4>
@@ -310,7 +532,7 @@ require("header.php");
 						</div>
 					</div>
 
-				</div>
+				</div> -->
 			</div><!--wrap-programacao-gray-->
 		</section>
 

@@ -49,6 +49,11 @@ section .title-section h2{
 }
 /* End - Standard */
 
+/* Tables */
+.table.table-bordered tr td,
+.table.table-bordered thead tr th{
+	text-align: center;
+}
 
 /* Curriculo */
 
