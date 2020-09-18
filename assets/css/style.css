@@ -156,7 +156,8 @@ section .title-section h2{
 }
 
 .bg-programacao-dark {
-	background-color: #414141;
+	background-color: inherit;
+	border:1px solid #888;
 	padding-top:100px;
 }
 
