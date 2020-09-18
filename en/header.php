@@ -13,11 +13,11 @@
 	<!-- Menu desktop -->
 	<nav class="menu">
 		<ul>
-			<li><a href="#forum">O Fórum</a></li>
-			<li><a href="#palestrantes">Palestrantes</a></li>
-			<li><a href="#programacao">Programação</a></li>
-			<li><a href="#parceiros">Parceiros</a></li>
-			<li><a href="#paineis">Painéis</a></li>
+			<li><a href="#forum">The Fórum</a></li>
+			<li><a href="#palestrantes">Speakers</a></li>
+			<li><a href="#programacao">Program</a></li>
+			<li><a href="#parceiros">Partners</a></li>
+			<li><a href="#paineis">Panels</a></li>
 			<!-- <li><a href="#local">Local</a></li> -->
 			<li class="not-hover">
 				<ul class="flags">
@@ -31,26 +31,26 @@
 
 	<!-- Menu mobile -->
 	<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="display:none">
-		<a class="navbar-brand" href="#">Fórum Econômico</a>
+		<a class="navbar-brand" href="#">Economic Forum</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<ul class="navbar-nav">
 				<li class="nav-item active">
-					<a class="nav-link" href="#forum">O Fórum</a>
+					<a class="nav-link" href="#forum">The Fórum</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#palestrantes">Palestrantes</a>
+					<a class="nav-link" href="#palestrantes">Speakers</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#programacao">Programação</a>
+					<a class="nav-link" href="#programacao">Program</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#parceiros">Parceiros</a>
+					<a class="nav-link" href="#parceiros">Partners</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#paineis">Painéis</a>
+					<a class="nav-link" href="#paineis">Panels</a>
 				</li>
 			<!-- 	<li class="nav-item">
 					<a class="nav-link" href="#local">Local</a>
