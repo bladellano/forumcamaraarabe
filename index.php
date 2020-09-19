@@ -421,7 +421,7 @@
 					</div>
 
 
-					<!-- <div class="row">
+					<div class="row">
 						<div class="col-md-6">
 							<div class="box-time line-top">
 								<h4>8:00</h4>
@@ -528,7 +528,7 @@
 						</div>
 					</div>
 
-				</div> -->
+				</div>
 			</div><!--wrap-programacao-gray-->
 		</section>
 
