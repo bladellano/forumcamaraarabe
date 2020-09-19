@@ -52,9 +52,11 @@
 				<li class="nav-item">
 					<a class="nav-link" href="#paineis">Panels</a>
 				</li>
-			<!-- 	<li class="nav-item">
-					<a class="nav-link" href="#local">Local</a>
-				</li> -->
+				<li class="nav-item">
+					<a href="../"><img src="assets/images/Brasil_icon.webp" alt=""></a>
+					<a href="#"><img src="assets/images/Arab_League.webp" alt=""></a>
+					<a href="./"><img src="assets/images/IN_icon.webp" alt=""></a>
+				</li>
 			</ul>
 		</div>
 	</nav>
