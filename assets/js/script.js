@@ -23,7 +23,7 @@ $(function(){
 		}, 500)
 	});
 
-	const menuItems = document.querySelectorAll('.menu a[href^="#"]');
+	const menuItems = document.querySelectorAll('.menu a[href^="#"],.navbar-nav li a[href^="#"]');
 
 	function getScrollTopByHref(element) {
 		const id = element.getAttribute('href');
