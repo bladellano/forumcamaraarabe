@@ -7,11 +7,6 @@
 				<img class="img-fluid" src="assets/images/logo-novo-kv-en.png" alt="FORUM SLOGAN">
 			</div>
 		</div>
-	<!-- 	<div class="row">
-			<div class="col-md-12 text-center">
-				<img class="img-fluid" src="assets/images/Banner_aviso_siteWIX.webp" alt="FORUM SLOGAN">
-			</div>
-		</div> -->
 		<div class="row">
 			<div class="col-md-12 text-center">
 				<div class="alert-header">
@@ -198,239 +193,34 @@
 				<h3>|Program</h3>
 				<div class="bg-programacao-dark" style="padding: 30px;">
 
+					<!-- PROGRAMAÇÃO -->
+
 					<div class="row">
-						<div class="col-md-12">
-							<!-- I -->
-							<table class="table table-striped table-dark table-sm table-bordered">
-								<thead>
-									<tr>
-										<th rowspan="2" style="width: 25%">HORÁRIO</th>
-										<th colspan="2" class="text-warning display-4">19 DE OUTUBRO (SEGUNDA-FEIRA)</th>
-									</tr>
-									<tr>
-										<td class="text-center">TEMA</td>
-										<td>ESTRUTURA</td>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>08h30 às 08h35</td>
-										<td rowspan="10" style="width: 40%;padding-top: 100px;" class="text-center">
-											O FUTURO É AGORA: PERSPECTIVAS PARA O BRASIL E OS PAÍSES ÁRABES NO NOVO
-										CENÁRIO GLOBAL</td>
-										<td>Atrações e Abertura</td>
-									</tr>
-									<tr>
-										<td>08h35 às 10h00</td>
-										<td>ABERTURA SOLENE</td>
-									</tr>
-									<tr>
-										<td>10h00  às 10h05</td>
-										<td>Abertura da Exposição dos Patrocinadores</td>
-									</tr>
-									<tr>
-										<td>10h05 às 10h15</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>10h15 às 10h35</td>
-										<td>PALESTRA</td>
-									</tr>
-									<tr>
-										<td>10h35 às 12h05</td>
-										<td>PAINEL</td>
-									</tr>
-									<tr>
-										<td>12h05 às 12h15</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>12h15 às 12h45</td>
-										<td>CEO TALK</td>
-									</tr>
-									<tr>
-										<td>12h45 às 13h15</td>
-										<td>Discussão entre Câmaras</td>
-									</tr>
-									<tr>
-										<td>13h15 às 13h30</td>
-										<td>Encerramento</td>
-									</tr>
-								</tbody>
-							</table>
-
-							<!-- II -->
-
-							<table class="table table-striped table-dark table-sm table-bordered">
-								<thead>
-									<tr>
-										<th rowspan="2" style="width: 25%">HORÁRIO</th>
-										<th colspan="2" class="text-warning display-4">20 DE OUTUBRO (TERÇA-FEIRA)	
-										</th>
-									</tr>
-									<tr>
-										<td class="text-center">TEMA</td>
-										<td>ESTRUTURA</td>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>09h00 às 09h05</td>
-										<td rowspan="8" style="width: 40%;padding-top: 100px;" class="text-center">
-										UMA NOVA ORDEM DOS NEGÓCIOS INTERNACIONAIS?</td>
-										<td>Abertura</td>
-									</tr>
-									<tr>
-										<td>09h05 às 09h35</td>
-										<td>PALESTRA</td>
-									</tr>
-									<tr>
-										<td>09h35 às 09h45</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>09h45 às 11h15</td>
-										<td>PAINEL</td>
-									</tr>
-									<tr>
-										<td>11h15 às 11h30</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>11h30 às 12h00</td>
-										<td>CEO TALK</td>
-									</tr>
-									<tr>
-										<td>12h00 às 12h30</td>
-										<td>Discussão entre Câmaras</td>
-									</tr>
-									<tr>
-										<td>12h30 às 13h00</td>
-										<td>Encerramento</td>
-									</tr>
-									
-								</tbody>
-							</table>
-
-							<!-- III -->
-
-							<table class="table table-striped table-dark table-sm table-bordered">
-								<thead>
-									<tr>
-										<th rowspan="2" style="width: 25%">HORÁRIO</th>
-										<th colspan="2" class="text-warning display-4">21 DE OUTUBRO (QUARTA-FEIRA)	</th>
-									</tr>
-									<tr>
-										<td class="text-center">TEMA</td>
-										<td>ESTRUTURA</td>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>09h00 às 09h05</td>
-										<td rowspan="10" style="width: 40%;padding-top: 100px;" class="text-center">
-										SEGURANÇA ALIMENTAR: UMA PARCERIA ESTRATÉGICA ENTRE BRASIL E O MUNDO ÁRABE?</td>
-										<td>Abertura</td>
-									</tr>
-									<tr>
-										<td>09h05 às 09h35</td>
-										<td>PALESTRA</td>
-									</tr>
-									<tr>
-										<td>09h35 às 09h45</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>09h45 às 11h15</td>
-										<td>PAINEL</td>
-									</tr>
-									<tr>
-										<td>11h15 às 11h30</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>11h30 às 12h00</td>
-										<td>CEO TALK</td>
-									</tr>
-									<tr>
-										<td>12h00 às 12h30</td>
-										<td>Discussão entre Câmaras</td>
-									</tr>
-									<tr>
-										<td>12h30 às 13h00</td>
-										<td>Encerramento</td>
-									</tr>
-									
-								</tbody>
-							</table>
-
-							<!-- IV -->
-
-							<table class="table table-striped table-dark table-sm table-bordered">
-								<thead>
-									<tr>
-										<th rowspan="2" style="width: 25%">HORÁRIO</th>
-										<th colspan="2" class="text-warning display-4">22 DE OUTUBRO (QUINTA-FEIRA)	</th>
-									</tr>
-									<tr>
-										<td class="text-center">TEMA</td>
-										<td>ESTRUTURA</td>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>09h00 às 09h05</td>
-										<td rowspan="10" style="width: 40%;padding-top: 100px;" class="text-center">
-										GOVERNANÇA AMBIENTAL, SOCIAL E CORPORATIVA (ESG) RELEVÂNCIA NO CONTEXTO ATUAL</td>
-										<td>Abertura</td>
-									</tr>
-									<tr>
-										<td>09h05 às 09h35</td>
-										<td>PALESTRA</td>
-									</tr>
-									<tr>
-										<td>09h35 às 09h45</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>09h45 às 11h15</td>
-										<td>PAINEL</td>
-									</tr>
-									<tr>
-										<td>11h15 às 11h30</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>11h30 às 12h00</td>
-										<td>CEO TALK</td>
-									</tr>
-									<tr>
-										<td>12h00 às 12h30</td>
-										<td>Discussão entre Câmaras</td>
-									</tr>
-									<tr>
-										<td>12h30 às 13h30</td>
-										<td>Cerimônia de ENCERRAMENTO</td>
-									</tr>
-
-								</tbody>
-							</table>
-
-						</div>
-					</div>
-
-
-					<!-- <div class="row">
 						<div class="col-md-6">
 							<div class="box-time line-top">
-								<h4>8:00</h4>
-								<p>Credenciamento e Welcome Coffee</p>
+								<h4>OCTOBER 19</h4>
+								<p>(MONDAY)</p>
+								<p>BRAZIL TIME</p>
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="box-time line-top none-line-top">
-								<h4>13:30</h4>
-								<p>Almoço de Networking</p>
+								<h4></h4>
+								<p>THE FUTURE IS NOW: PERSPECTIVES FOR BRAZIL AND THE ARAB COUNTRIES IN THE NEW GLOBAL SITUATION</p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time line-top">
+								<h4>8:30 am - 8:35 am</h4>
+								<p>Opening Attraction</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time line-top none-line-top">
+								<h4>8:35 am - 10:00 am</h4>
+								<p>Solemn Opening</p>
 							</div>
 						</div>
 					</div>
@@ -438,14 +228,14 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="box-time">
-								<h4>9:00</h4>
-								<p>Cerimônia Oficial de Abertura - Autoridades</p>
+								<h4>10:00 am - 10:05 am</h4>
+								<p>Sponsors Showcase Opening</p>
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="box-time">
-								<h4>14:30</h4>
-								<p>Lançamento do Prêmio Investidor Árabe - sessão Latino Americana</p>
+								<h4>10:05 am - 10:15 am</h4>
+								<p>Intermission</p>
 							</div>
 						</div>
 					</div>
@@ -453,14 +243,14 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="box-time">
-								<h4>10:00</h4>
-								<p>Assinatura de acordos</p>
+								<h4>10:15 am - 10:35 am</h4>
+								<p>Lecture</p>
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="box-time">
-								<h4>14:35</h4>
-								<p>Keynote Speaker: Conjuntura econômica Brasil - Países Árabes</p>
+								<h4>10:35 am - 12:05 pm</h4>
+								<p>Painel</p>
 							</div>
 						</div>
 					</div>
@@ -468,67 +258,275 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="box-time">
-								<h4>10:10</h4>
-								<p>Keynote Speaker:
-								Cenário das Mudanças Demográficas e Comportamentais</p>
+								<h4>12:05 pm - 12:15 pm</h4>
+								<p>Intermission</p>
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="box-time">
-								<h4>15:05</h4>
-								<p>Painel 3: Desenvolvimento Sustentável
-								Melhores práticas e oportunidades de investimento</p>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>10:40</h4>
-								<p>Painel 1: Economia 4.0
-								Explorando Novos Potenciais no Comércio Internacional</p>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>16:20</h4>
-								<p>Networking Break</p>
+								<h4>12:15 pm - 12:45 pm</h4>
+								<p>CEO Talk</p>
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-6">
 							<div class="box-time">
-								<h4>11:55</h4>
-								<p>Networking Break</p>
+								<h4>12:45 pm - 1:15 pm</h4>
+								<p>Discussion among Chambers</p>
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="box-time">
-								<h4>16:40</h4>
-								<p>Painel 4: Segurança Alimentar
-								Oportunidades Estratégicas</p>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>12:00</h4>
-								<p>Painel 2: Movimentos Globais
-								Impactos na Economia Local</p>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>18:00</h4>
-								<p>Encerramento</p>
+								<h4>1:15 pm - 1:30 pm</h4>
+								<p>Closing</p>
 							</div>
 						</div>
 					</div>
 
-				</div> -->
-			</div><!--wrap-programacao-gray-->
+					<hr><br>
+
+					<!-- PROGRAMAÇÃO -->
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time line-top">
+								<h4>OCTOBER 20</h4>
+								<p>(TUESDAY)</p>
+								<p>BRAZIL TIME</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time line-top none-line-top">
+								<h4></h4>
+								<p>A NEW ORDER IN INTERNATIONAL BUSINESS?</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time line-top">
+								<h4>09:00 am - 09:05 am</h4>
+								<p>Opening</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time line-top none-line-top">
+								<h4>09:05 am - 09:35 am</h4>
+								<p>LECTURE</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>09:35 am - 09:45 am</h4>
+								<p>Intermission</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>09:45 am - 11:15 am</h4>
+								<p>Painel</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>11:15 am  - 11:30 am</h4>
+								<p>Intermission</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>11:30 am - 12:00 pm</h4>
+								<p>CEO Talk</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>12:00 pm - 12:30 pm</h4>
+								<p>Discussion among Chambers</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>12:00 pm - 1:00 pm</h4>
+								<p>Closing</p>
+							</div>
+						</div>
+					</div>
+
+					<hr><br>
+
+					<!-- PROGRAMAÇÃO -->
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time line-top">
+								<h4>OCTOBER 21</h4>
+								<p>(WEDNESDAY)</p>
+								<p>BRAZIL TIME</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time line-top none-line-top">
+								<h4></h4>
+								<p>FOOD SECURITY: A STRATEGIC PARTNERSHIP BETWEEN BRAZIL AND THE ARAB WORLD?</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time line-top">
+								<h4>09:00 am - 09:05 am</h4>
+								<p>Opening</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time line-top none-line-top">
+								<h4>09:05 am - 09:35 am</h4>
+								<p>LECTURE</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>09:35 am - 09:45 am</h4>
+								<p>Intermission</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>09:45 am - 11:15 am</h4>
+								<p>Painel</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>11:15 am  - 11:30 am</h4>
+								<p>Intermission</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>11:30 am - 12:00 pm</h4>
+								<p>CEO Talk</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>12:00 pm - 12:30 pm</h4>
+								<p>Discussion among Chambers</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>12:00 pm - 1:00 pm</h4>
+								<p>Closing</p>
+							</div>
+						</div>
+					</div>
+
+					<hr><br>
+					<!-- PROGRAMAÇÃO -->
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time line-top">
+								<h4>OCTOBER 22</h4>
+								<p>(THURSDAY)</p>
+								<p>BRAZIL TIME</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time line-top none-line-top">
+								<h4></h4>
+								<p>ENVIRONMENTAL, SOCIAL AND CORPORATE GOVERNANCE (ESG) RELEVANCE IN THE PRESENT CONTEXT</p>
+							</div>
+						</div>
+					</div>
+
+
+
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time line-top">
+								<h4>09:00 am - 09:05 am</h4>
+								<p>Opening</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time line-top none-line-top">
+								<h4>09:05 am - 09:35 am</h4>
+								<p>LECTURE</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>09:35 am - 09:45 am</h4>
+								<p>Intermission</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>09:45 am - 11:15 am</h4>
+								<p>Painel</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>11:15 am  - 11:30 am</h4>
+								<p>Intermission</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>11:30 am - 12:00 pm</h4>
+								<p>CEO Talk</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>12:00 pm - 12:30 pm</h4>
+								<p>Discussion among Chambers</p>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="box-time">
+								<h4>12:00 pm - 1:00 pm</h4>
+								<p>Closing Ceremony</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
 		</section>
 
 		<section id="local" style="display: none"> 
@@ -664,4 +662,4 @@
 	</div>
 </section>
 
-<?php require("footer.php"); ?>
+<?php require("../footer.php"); ?>

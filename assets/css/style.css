@@ -50,21 +50,21 @@ section .title-section h2{
 /* End - Standard */
 
 .topo {
-    background-color: #D9A704;
-    width: 40px;
-    height: 40px;
-    color: #FFF;
-    text-align: center;
-    padding-top: 2px;
-    cursor: pointer;
-    z-index: 4;
-    border-radius: 50%;
-    font-size: 20px;
-    position: fixed;
-    bottom: 16px;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    display: none;
+	background-color: #D9A704;
+	width: 40px;
+	height: 40px;
+	color: #FFF;
+	text-align: center;
+	padding-top: 2px;
+	cursor: pointer;
+	z-index: 4;
+	border-radius: 50%;
+	font-size: 20px;
+	position: fixed;
+	bottom: 16px;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	display: none;
 }
 
 /* Tables */
@@ -455,7 +455,7 @@ nav ul li:hover a{
 
 /* DEVICES MOBILE */
 
-@media only screen and (min-width: 320px) and (max-width: 480px) {
+@media only screen and (min-width: 320px) and (max-width: 768px) {
 
 	#forum .bg-forum {
 		padding-left: 10px;

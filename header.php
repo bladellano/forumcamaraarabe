@@ -52,7 +52,7 @@
 				<li class="nav-item">
 					<a class="nav-link" href="#paineis">Painéis</a>
 				</li>
-			<!-- 	<li class="nav-item">
+				<!-- <li class="nav-item">
 					<a class="nav-link" href="#local">Local</a>
 				</li> -->
 			</ul>

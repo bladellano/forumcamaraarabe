@@ -7,7 +7,7 @@
 				<img class="img-fluid" src="assets/images/logo-novo-kv.png" alt="FORUM SLOGAN">
 			</div>
 		</div>
-	<!-- 	<div class="row">
+		<!--<div class="row">
 			<div class="col-md-12 text-center">
 				<img class="img-fluid" src="assets/images/Banner_aviso_siteWIX.webp" alt="FORUM SLOGAN">
 			</div>
@@ -22,7 +22,7 @@
 	</div>
 </header>
 
-<!-- forum -->
+<!-- FORUM -->
 <section id="forum">
 	<div class="container">
 		<div class="bg-forum">
@@ -195,341 +195,346 @@
 
 		<section id="programacao">
 
-			<div class="wrap-programacao-gray" >
+		<div class="wrap-programacao-gray" >
 				<h3>|Programação</h3>
 				<div class="bg-programacao-dark" style="padding: 30px;">
 
-					<div class="row">
-						<div class="col-md-12">
-							<!-- I -->
-							<table class="table table-striped table-dark table-sm table-bordered">
-								<thead>
-									<tr>
-										<th rowspan="2" style="width: 25%">HORÁRIO</th>
-										<th colspan="2" class="text-warning display-4">19 DE OUTUBRO (SEGUNDA-FEIRA)</th>
-									</tr>
-									<tr>
-										<td class="text-center">TEMA</td>
-										<td>ESTRUTURA</td>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>08h30 às 08h35</td>
-										<td rowspan="10" style="width: 40%;padding-top: 100px;" class="text-center">
-											O FUTURO É AGORA: PERSPECTIVAS PARA O BRASIL E OS PAÍSES ÁRABES NO NOVO
-										CENÁRIO GLOBAL</td>
-										<td>Atrações e Abertura</td>
-									</tr>
-									<tr>
-										<td>08h35 às 10h00</td>
-										<td>ABERTURA SOLENE</td>
-									</tr>
-									<tr>
-										<td>10h00  às 10h05</td>
-										<td>Abertura da Exposição dos Patrocinadores</td>
-									</tr>
-									<tr>
-										<td>10h05 às 10h15</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>10h15 às 10h35</td>
-										<td>PALESTRA</td>
-									</tr>
-									<tr>
-										<td>10h35 às 12h05</td>
-										<td>PAINEL</td>
-									</tr>
-									<tr>
-										<td>12h05 às 12h15</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>12h15 às 12h45</td>
-										<td>CEO TALK</td>
-									</tr>
-									<tr>
-										<td>12h45 às 13h15</td>
-										<td>Discussão entre Câmaras</td>
-									</tr>
-									<tr>
-										<td>13h15 às 13h30</td>
-										<td>Encerramento</td>
-									</tr>
-								</tbody>
-							</table>
+					<!--<div class="row">
+						<div class="col-md-12">-->
+							
 
-							<!-- II -->
+							<!-- PROGRAMAÇÃO -->
 
-							<table class="table table-striped table-dark table-sm table-bordered">
-								<thead>
-									<tr>
-										<th rowspan="2" style="width: 25%">HORÁRIO</th>
-										<th colspan="2" class="text-warning display-4">20 DE OUTUBRO (TERÇA-FEIRA)	
-										</th>
-									</tr>
-									<tr>
-										<td class="text-center">TEMA</td>
-										<td>ESTRUTURA</td>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>09h00 às 09h05</td>
-										<td rowspan="8" style="width: 40%;padding-top: 100px;" class="text-center">
-										UMA NOVA ORDEM DOS NEGÓCIOS INTERNACIONAIS?</td>
-										<td>Abertura</td>
-									</tr>
-									<tr>
-										<td>09h05 às 09h35</td>
-										<td>PALESTRA</td>
-									</tr>
-									<tr>
-										<td>09h35 às 09h45</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>09h45 às 11h15</td>
-										<td>PAINEL</td>
-									</tr>
-									<tr>
-										<td>11h15 às 11h30</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>11h30 às 12h00</td>
-										<td>CEO TALK</td>
-									</tr>
-									<tr>
-										<td>12h00 às 12h30</td>
-										<td>Discussão entre Câmaras</td>
-									</tr>
-									<tr>
-										<td>12h30 às 13h00</td>
-										<td>Encerramento</td>
-									</tr>
-									
-								</tbody>
-							</table>
-
-							<!-- III -->
-
-							<table class="table table-striped table-dark table-sm table-bordered">
-								<thead>
-									<tr>
-										<th rowspan="2" style="width: 25%">HORÁRIO</th>
-										<th colspan="2" class="text-warning display-4">21 DE OUTUBRO (QUARTA-FEIRA)	</th>
-									</tr>
-									<tr>
-										<td class="text-center">TEMA</td>
-										<td>ESTRUTURA</td>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>09h00 às 09h05</td>
-										<td rowspan="10" style="width: 40%;padding-top: 100px;" class="text-center">
-										SEGURANÇA ALIMENTAR: UMA PARCERIA ESTRATÉGICA ENTRE BRASIL E O MUNDO ÁRABE?</td>
-										<td>Abertura</td>
-									</tr>
-									<tr>
-										<td>09h05 às 09h35</td>
-										<td>PALESTRA</td>
-									</tr>
-									<tr>
-										<td>09h35 às 09h45</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>09h45 às 11h15</td>
-										<td>PAINEL</td>
-									</tr>
-									<tr>
-										<td>11h15 às 11h30</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>11h30 às 12h00</td>
-										<td>CEO TALK</td>
-									</tr>
-									<tr>
-										<td>12h00 às 12h30</td>
-										<td>Discussão entre Câmaras</td>
-									</tr>
-									<tr>
-										<td>12h30 às 13h00</td>
-										<td>Encerramento</td>
-									</tr>
-									
-								</tbody>
-							</table>
-
-							<!-- IV -->
-
-							<table class="table table-striped table-dark table-sm table-bordered">
-								<thead>
-									<tr>
-										<th rowspan="2" style="width: 25%">HORÁRIO</th>
-										<th colspan="2" class="text-warning display-4">22 DE OUTUBRO (QUINTA-FEIRA)	</th>
-									</tr>
-									<tr>
-										<td class="text-center">TEMA</td>
-										<td>ESTRUTURA</td>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>09h00 às 09h05</td>
-										<td rowspan="10" style="width: 40%;padding-top: 100px;" class="text-center">
-										GOVERNANÇA AMBIENTAL, SOCIAL E CORPORATIVA (ESG) RELEVÂNCIA NO CONTEXTO ATUAL</td>
-										<td>Abertura</td>
-									</tr>
-									<tr>
-										<td>09h05 às 09h35</td>
-										<td>PALESTRA</td>
-									</tr>
-									<tr>
-										<td>09h35 às 09h45</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>09h45 às 11h15</td>
-										<td>PAINEL</td>
-									</tr>
-									<tr>
-										<td>11h15 às 11h30</td>
-										<td>Intervalo</td>
-									</tr>
-									<tr>
-										<td>11h30 às 12h00</td>
-										<td>CEO TALK</td>
-									</tr>
-									<tr>
-										<td>12h00 às 12h30</td>
-										<td>Discussão entre Câmaras</td>
-									</tr>
-									<tr>
-										<td>12h30 às 13h30</td>
-										<td>Cerimônia de ENCERRAMENTO</td>
-									</tr>
-
-								</tbody>
-							</table>
-
-						</div>
-					</div>
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time line-top">
+										<h4>19 DE OUTUBRO</h4>
+										<p>(SEGUNDA-FEIRA)</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time line-top none-line-top">
+										<h4></h4>
+										<p>O FUTURO É AGORA: PERSPECTIVAS PARA O BRASIL E OS PAÍSES ÁRABES NO NOVO CENÁRIO GLOBAL</p>
+									</div>
+								</div>
+							</div>
 
 
-					<div class="row">
-						<div class="col-md-6">
-							<div class="box-time line-top">
-								<h4>8:00</h4>
-								<p>Credenciamento e Welcome Coffee</p>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="box-time line-top none-line-top">
-								<h4>13:30</h4>
-								<p>Almoço de Networking</p>
-							</div>
-						</div>
-					</div>
 
-					<div class="row">
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>9:00</h4>
-								<p>Cerimônia Oficial de Abertura - Autoridades</p>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>14:30</h4>
-								<p>Lançamento do Prêmio Investidor Árabe - sessão Latino Americana</p>
-							</div>
-						</div>
-					</div>
 
-					<div class="row">
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>10:00</h4>
-								<p>Assinatura de acordos</p>
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time line-top">
+										<h4>08h30 às 08h35</h4>
+										<p>Atrações e Abertura</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time line-top none-line-top">
+										<h4>08h35 às 10h00</h4>
+										<p>Abertura Solene</p>
+									</div>
+								</div>
 							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>14:35</h4>
-								<p>Keynote Speaker: Conjuntura econômica Brasil - Países Árabes</p>
-							</div>
-						</div>
-					</div>
 
-					<div class="row">
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>10:10</h4>
-								<p>Keynote Speaker:
-								Cenário das Mudanças Demográficas e Comportamentais</p>
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>10h00 às 10h05</h4>
+										<p>Abertura da Exposição dos Patrocinadores</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>10h05 às 10h15</h4>
+										<p>Intervalo</p>
+									</div>
+								</div>
 							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>15:05</h4>
-								<p>Painel 3: Desenvolvimento Sustentável
-								Melhores práticas e oportunidades de investimento</p>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>10:40</h4>
-								<p>Painel 1: Economia 4.0
-								Explorando Novos Potenciais no Comércio Internacional</p>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>16:20</h4>
-								<p>Networking Break</p>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>11:55</h4>
-								<p>Networking Break</p>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>16:40</h4>
-								<p>Painel 4: Segurança Alimentar
-								Oportunidades Estratégicas</p>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>12:00</h4>
-								<p>Painel 2: Movimentos Globais
-								Impactos na Economia Local</p>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="box-time">
-								<h4>18:00</h4>
-								<p>Encerramento</p>
-							</div>
-						</div>
-					</div>
 
-				</div>
-			</div><!--wrap-programacao-gray-->
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>10h15 às 10h35</h4>
+										<p>Palestra</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>10h35 às 12h05</h4>
+										<p>Painel</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>12h05 às 12h15</h4>
+										<p>Intervalo</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>12h15 às 12h45</h4>
+										<p>CEO Talk</p>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>12h45 às 13h15</h4>
+										<p>Discussão entre Câmaras</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>13h15 às 13h30</h4>
+										<p>Encerramento</p>
+									</div>
+								</div>
+							</div>
+
+							<hr><br>
+
+							<!-- PROGRAMAÇÃO -->
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time line-top">
+										<h4>20 DE OUTUBRO</h4>
+										<p>(TERÇA-FEIRA)</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time line-top none-line-top">
+										<h4></h4>
+										<p>UMA NOVA ORDEM DOS NEGÓCIOS INTERNACIONAIS?</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time line-top">
+										<h4>09h00 às 09h05</h4>
+										<p>Abertura</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time line-top none-line-top">
+										<h4>09h05 às 09h35</h4>
+										<p>Palestra</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>09h35 às 09h45</h4>
+										<p>Intervalo</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>09h45 às 11h15</h4>
+										<p>Painel</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>11h15 às <br>11h30</h4>
+										<p>Intervalo</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>11h30 às 12h00</h4>
+										<p>CEO Talk</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>12h00 às 12h30</h4>
+										<p>Discussão entre Câmaras</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>12h30 às 13h00</h4>
+										<p>Encerramento</p>
+									</div>
+								</div>
+							</div>
+
+							<hr><br>
+
+							<!-- PROGRAMAÇÃO -->
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time line-top">
+										<h4>21 DE OUTUBRO</h4>
+										<p>(QUARTA-FEIRA)</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time line-top none-line-top">
+										<h4></h4>
+										<p>SEGURANÇA ALIMENTAR: UMA PARCERIA ESTRATÉGICA ENTRE BRASIL E O MUNDO ÁRABE?</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time line-top">
+										<h4>09h00 às 09h05</h4>
+										<p>Abertura</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time line-top none-line-top">
+										<h4>09h05 às 09h35</h4>
+										<p>Palestra</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>09h35 às 09h45</h4>
+										<p>Intervalo</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>09h45 às 11h15</h4>
+										<p>Painel</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>11h15 às <br>11h30</h4>
+										<p>Intervalo</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>11h30 às 12h00</h4>
+										<p>CEO Talk</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>12h00 às 12h30</h4>
+										<p>Discussão entre Câmaras</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>12h30 às 13h00</h4>
+										<p>Encerramento</p>
+									</div>
+								</div>
+							</div>
+
+							<hr><br>
+							<!-- PROGRAMAÇÃO -->
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time line-top">
+										<h4>22 DE OUTUBRO</h4>
+										<p>(QUINTA-FEIRA)</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time line-top none-line-top">
+										<h4></h4>
+										<p>GOVERNANÇA AMBIENTAL, SOCIAL E CORPORATIVA (ESG) RELEVÂNCIA NO CONTEXTO ATUAL</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time line-top">
+										<h4>09h00 às 09h05</h4>
+										<p>Abertura</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time line-top none-line-top">
+										<h4>09h05 às 09h35</h4>
+										<p>Palestra</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>09h35 às 09h45</h4>
+										<p>Intervalo</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>09h45 às 11h15</h4>
+										<p>Painel</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>11h15 às <br>11h30</h4>
+										<p>Intervalo</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>11h30 às 12h00</h4>
+										<p>CEO Talk</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>12h00 às 12h30</h4>
+										<p>Discussão entre Câmaras</p>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="box-time">
+										<h4>12h30 às 13h00</h4>
+										<p>Cerimônia de ENCERRAMENTO</p>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div><!--wrap-programacao-gray-->
 		</section>
 
 		<section id="local" style="display: none"> 
