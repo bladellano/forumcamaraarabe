@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.modal-forum .btn{
+	background-color: #5E3F00;
+	border:0;
+}
+.wrap-control-image{
+	position: relative;	
+}
+.content-on-top-image{
+	position: absolute;
+	top:0;
+	left:0;
+	height: 100%;
+	width: 100%;
+	opacity: 0.6;
+}
+.wrap-grid{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.cell{
+	float: left;
+	width: 20%;
+	color:#FFF;
+	padding: 5% 0;
+	text-align: center;
+	/*border:1px dashed yellow;*/
+}
+
+.cell-mobile{
+	float: left;
+	width: 20%;
+	color:#FFF;
+	padding: 10% 0;
+	text-align: center;
+	/*border:1px dashed purple;*/
+}
+div[class^="cell btn"],div[class^="cell-mobile btn"]{
+	cursor: pointer;
+}
+
+/*===================*/
+/*   DEVICES MOBILE  */
+/*===================*/
+
+@media (max-width:768px) {
+
+}

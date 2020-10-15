@@ -195,7 +195,7 @@
 
 		<section id="programacao">
 
-		<div class="wrap-programacao-gray" >
+			<div class="wrap-programacao-gray" >
 				<h3>|Programação</h3>
 				<div class="bg-programacao-dark" style="padding: 30px;">
 
@@ -535,135 +535,135 @@
 
 						</div>
 					</div><!--wrap-programacao-gray-->
-		</section>
+				</section>
 
-		<section id="local" style="display: none"> 
+				<section id="local" style="display: none"> 
 
-			<div class="bg-local" >				
-				<div class="row">
-					<div class="col-md-6 text-center">
-						<h3>| Local</h3>
-						<h5>UNIQUE MOTEL</h5>
-					</div>
-					<div class="col-md-6">
-						<img src="assets/images/15077123.webp" class="img-fluid">
-					</div>
-				</div>
-				<div class="row">
-					<div class="offset-2 col-md-4">
-						<p>O Hotel Unique está localizado em uma das regiões mais nobres e segura de São Paulo, próximo ao Parque do Ibirapuera, e é símbolo de luxo e design, onde arquitetura, arte, moda, gastronomia e música se encontram para encantar a todos.</p>
-					</div>
-					<div class="col-md-6 compress-text-local">
-						<p>www.hotelunique.com</p>
-						<p>Av. Brigadeiro Luís Antônio, 4700 Jardim Paulista, São Paulo - SP</p>
-					</div>
-				</div>
-			</div>
-
-		</section>
-
-	</div> <!--container-->
-
-	<section id="map" style="display: none">		
-
-		<div class="container-fluid pl-0 pb-5">
-			<div class="row justify-content-start">
-				<div class="col-11 ">
-					<iframe
-					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.632120073036!2d-46.66902248556771!3d-23.581652484672784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59aa370d8d59%3A0x89399ab08f355d1!2zRsOzcnVtIEVjb27DtG1pY28gQnJhc2lsICYgUGHDrXNlcyDDgXJhYmVzIDIwMjA!5e0!3m2!1spt-BR!2sbr!4v1600426226465!5m2!1spt-BR!2sbr"
-					height="700" width="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
-				</iframe>
-			</div>
-		</div>
-	</div>
-</section>
-</div>
-
-
-<!-- paines -->
-
-<section id="paineis">
-	<div class="container">
-		<div class="bg-paines">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="wrap-paineis-yellow">
-						<h3>| Painéis</h3>
-
+					<div class="bg-local" >				
 						<div class="row">
-							<div class="col-md-6">
-								<div class="box-painel-blue" style="background-image: url(assets/images/bg-40.jpg);">
-									<div class="wrap" >
-										<h5>19.10 | O FUTURO É AGORA: PERSPECTIVAS PARA O BRASIL E OS PAÍSES ÁRABES NO NOVO CENÁRIO GLOBAL</h5>
-										<p>O ano de 2020 nos faz repensar a maneira como conduzimos nossas vidas e interagimos em sociedade. O reordenamento na maneira que os governos conduzem o desenvolvimento de seus Estados e perante o ambiente internacional; a forma como líderes de grandes empresas atuam no mercado e, principalmente, o que a sociedade priorizará a partir de agora. Não há dúvida que um novo formato pautado na cooperação, no compartilhamento e no olhar coletivo está em voga e independente de onde se atue, o não olhar para esse movimento fará com que nos isolemos diante da nova realidade global</p>
-										<p>
-											PRINCIPAIS PONTOS A SEREM ABORDADOS:
-											<br/>- Cenário atual: Qual o contexto global Pós-COVID 19 – com ênfase na economia global e comércio internacional 
-											<br/>- Principais temas para fomentarmos parcerias entre Brasil e o Mundo Árabe 
-											<br/>- Posicionamento e oportunidades entre Brasil e Países Árabe: Construindo novas plataformas de cooperação? 
-											<br/>- O papel das Câmaras de Comércio e do setor privado nesse novo contexto
-
-										</p>
-									</div>
-								</div>									
+							<div class="col-md-6 text-center">
+								<h3>| Local</h3>
+								<h5>UNIQUE MOTEL</h5>
 							</div>
 							<div class="col-md-6">
-								<div class="box-painel-blue" style="background-image: url(assets/images/bg-map-tec.jpg);">
-									<div class="wrap">
-										<h5>20.10 | UMA NOVA ORDEM DOS NEGÓCIOS INTERNACIONAIS? </h5>
-										<p>O mundo subitamente passou por um processo de fechamento de fronteiras, espaço aéreo limitado, limitação a grandes multidões. Porém, ao mesmo tempo, a tecnologia permitiu estarmos mais conectados do que nunca. Podemos dizer que passamos por uma reestruturação na forma de conduzirmos o comércio internacional? Há novas prioridades seja no produto, na qualidade, no modelo de parcerias internacionais? Como o problema sanitário que enfrentamos pode afetar ou alterar a cadeia de produção de produtos?  </p>
-										<p>
-											PRINCIPAIS PONTOS A SEREM ABORDADOS 
-											<br/>- A nova forma de fazer negócios no mercado internacional 
-											<br/>- transitando do físico para o digital; 
-											<br/>- Cooperação nunca fez tanto sentido: rediscutir a relação Brasil – Países Árabes;
-											<br/>- O papel da ciência e tecnologia na competitividade das empresas e países;
-											<br/>- O universo do e-Commerce;
+								<img src="assets/images/15077123.webp" class="img-fluid">
+							</div>
+						</div>
+						<div class="row">
+							<div class="offset-2 col-md-4">
+								<p>O Hotel Unique está localizado em uma das regiões mais nobres e segura de São Paulo, próximo ao Parque do Ibirapuera, e é símbolo de luxo e design, onde arquitetura, arte, moda, gastronomia e música se encontram para encantar a todos.</p>
+							</div>
+							<div class="col-md-6 compress-text-local">
+								<p>www.hotelunique.com</p>
+								<p>Av. Brigadeiro Luís Antônio, 4700 Jardim Paulista, São Paulo - SP</p>
+							</div>
+						</div>
+					</div>
 
-										</p>
+				</section>
+
+			</div> <!--container-->
+
+			<section id="map" style="display: none">		
+
+				<div class="container-fluid pl-0 pb-5">
+					<div class="row justify-content-start">
+						<div class="col-11 ">
+							<iframe
+							src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.632120073036!2d-46.66902248556771!3d-23.581652484672784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59aa370d8d59%3A0x89399ab08f355d1!2zRsOzcnVtIEVjb27DtG1pY28gQnJhc2lsICYgUGHDrXNlcyDDgXJhYmVzIDIwMjA!5e0!3m2!1spt-BR!2sbr!4v1600426226465!5m2!1spt-BR!2sbr"
+							height="700" width="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
+						</iframe>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+
+
+	<!-- paines -->
+
+	<section id="paineis">
+		<div class="container">
+			<div class="bg-paines">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="wrap-paineis-yellow">
+							<h3>| Painéis</h3>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-painel-blue" style="background-image: url(assets/images/bg-40.jpg);">
+										<div class="wrap" >
+											<h5>19.10 | O FUTURO É AGORA: PERSPECTIVAS PARA O BRASIL E OS PAÍSES ÁRABES NO NOVO CENÁRIO GLOBAL</h5>
+											<p>O ano de 2020 nos faz repensar a maneira como conduzimos nossas vidas e interagimos em sociedade. O reordenamento na maneira que os governos conduzem o desenvolvimento de seus Estados e perante o ambiente internacional; a forma como líderes de grandes empresas atuam no mercado e, principalmente, o que a sociedade priorizará a partir de agora. Não há dúvida que um novo formato pautado na cooperação, no compartilhamento e no olhar coletivo está em voga e independente de onde se atue, o não olhar para esse movimento fará com que nos isolemos diante da nova realidade global</p>
+											<p>
+												PRINCIPAIS PONTOS A SEREM ABORDADOS:
+												<br/>- Cenário atual: Qual o contexto global Pós-COVID 19 – com ênfase na economia global e comércio internacional 
+												<br/>- Principais temas para fomentarmos parcerias entre Brasil e o Mundo Árabe 
+												<br/>- Posicionamento e oportunidades entre Brasil e Países Árabe: Construindo novas plataformas de cooperação? 
+												<br/>- O papel das Câmaras de Comércio e do setor privado nesse novo contexto
+
+											</p>
+										</div>
+									</div>									
+								</div>
+								<div class="col-md-6">
+									<div class="box-painel-blue" style="background-image: url(assets/images/bg-map-tec.jpg);">
+										<div class="wrap">
+											<h5>20.10 | UMA NOVA ORDEM DOS NEGÓCIOS INTERNACIONAIS? </h5>
+											<p>O mundo subitamente passou por um processo de fechamento de fronteiras, espaço aéreo limitado, limitação a grandes multidões. Porém, ao mesmo tempo, a tecnologia permitiu estarmos mais conectados do que nunca. Podemos dizer que passamos por uma reestruturação na forma de conduzirmos o comércio internacional? Há novas prioridades seja no produto, na qualidade, no modelo de parcerias internacionais? Como o problema sanitário que enfrentamos pode afetar ou alterar a cadeia de produção de produtos?  </p>
+											<p>
+												PRINCIPAIS PONTOS A SEREM ABORDADOS 
+												<br/>- A nova forma de fazer negócios no mercado internacional 
+												<br/>- transitando do físico para o digital; 
+												<br/>- Cooperação nunca fez tanto sentido: rediscutir a relação Brasil – Países Árabes;
+												<br/>- O papel da ciência e tecnologia na competitividade das empresas e países;
+												<br/>- O universo do e-Commerce;
+
+											</p>
+										</div>
 									</div>
 								</div>
 							</div>
-						</div>
-						<!-- end row -->
+							<!-- end row -->
 
-						<div class="row">
-							<div class="col-md-6">
-								<div class="box-painel-blue" style="background-image: url(assets/images/bg-planta.jpg);">
-									<div class="wrap">
-										<h5>21.10 | SEGURANÇA ALIMENTAR: UMA PARCERIA ESTRATÉGICA ENTRE BRASIL E O MUNDO ÁRABE? </h5>
-										<p>Tema mais sensível e estratégico na relação Brasil – Países Árabes e com o contexto COVID-19 acelerou políticas de países que importam mais de 50% do que é consumido internamente com objetivo de garantir a longo prazo o aumento da produção em território nacional. Investimento em novas tecnologias, fomento a internacionalização de empresas, investimento em mercadores que suprem sua demanda interna e conseguem exportar o excedente. Porém, além de buscar atender a segurança alimentar a preocupação de segurança do alimento toma mais atenção, sendo necessário discutir e redefinir acordos sanitários, evitar barreiras não-tarifárias. O consumidor preocupa-se muito mais com a origem do produto, como ele foi produzido e qual a cadeia até chegar a sua mesa.</p>
-										<p>PRINCIPAIS PONTOS A SEREM ABORDADOS 
-											<br/>- O papel estratégico da segurança alimentar entre Brasil e Países Árabes; 
-											<br/>- Confiança, Transparência e rastreabilidade na cadeia de alimentos; 
-											<br/>- Além da segurança do alimento a sanidade do alimento torna-se prioritário; 
-											<br/>- A tecnologia e know-how do setor como diferencial do Brasil.
-										</p>
-									</div>
-								</div>									
-							</div>
-							<div class="col-md-6">
-								<div class="box-painel-blue" style="background-image: url(assets/images/bg-lab.jpg);">
-									<div class="wrap">
-										<h5>22.10 | GOVERNANÇA AMBIENTAL, SOCIAL E CORPORATIVA (ESG) – RELEVÂNCIA NO CONTEXTO ATUAL </h5>
-										<p>Governos, executivos, investidores, influenciadores, consumidores: todos não admitem mais o modelo econômico baseado somente na produção e consumo. A consciência em uma economia sustentável, ética, que traga ganhos para todos, que se baseie no social – na responsabilidade do setor privado na sociedade, nas políticas públicas, ambiental e econômica nunca esteve tanto em voga e influenciado o direcionamento e decisões quanto à onde investir, onde comprar e, também, na agregação de valor do produto, do país, da empresa. Faz-se importante nesse momento discutir a agenda ESG e a condução dela no Brasil e Países Árabes. </p>
-										<p>PRINCIPAIS PONTOS A SEREM ABORDADOS
-											<br/>- Relevância da ESG* no contexto internacional: Impacto no futuro econômico das empresas e na atração de investimentos; 
-											<br/>- “O papel do Halal no desenvolvimento sustentável” ou “do Halal para o Halal Sustentável”; 
-											<br/>- O papel e importância das Câmaras de Comércio na agenda;
-											<br/>- As Câmaras de Comércio como agentes impulsionadores na agenda da Governança Ambiental, Social e Corporativa;
-										</p>
+							<div class="row">
+								<div class="col-md-6">
+									<div class="box-painel-blue" style="background-image: url(assets/images/bg-planta.jpg);">
+										<div class="wrap">
+											<h5>21.10 | SEGURANÇA ALIMENTAR: UMA PARCERIA ESTRATÉGICA ENTRE BRASIL E O MUNDO ÁRABE? </h5>
+											<p>Tema mais sensível e estratégico na relação Brasil – Países Árabes e com o contexto COVID-19 acelerou políticas de países que importam mais de 50% do que é consumido internamente com objetivo de garantir a longo prazo o aumento da produção em território nacional. Investimento em novas tecnologias, fomento a internacionalização de empresas, investimento em mercadores que suprem sua demanda interna e conseguem exportar o excedente. Porém, além de buscar atender a segurança alimentar a preocupação de segurança do alimento toma mais atenção, sendo necessário discutir e redefinir acordos sanitários, evitar barreiras não-tarifárias. O consumidor preocupa-se muito mais com a origem do produto, como ele foi produzido e qual a cadeia até chegar a sua mesa.</p>
+											<p>PRINCIPAIS PONTOS A SEREM ABORDADOS 
+												<br/>- O papel estratégico da segurança alimentar entre Brasil e Países Árabes; 
+												<br/>- Confiança, Transparência e rastreabilidade na cadeia de alimentos; 
+												<br/>- Além da segurança do alimento a sanidade do alimento torna-se prioritário; 
+												<br/>- A tecnologia e know-how do setor como diferencial do Brasil.
+											</p>
+										</div>
+									</div>									
+								</div>
+								<div class="col-md-6">
+									<div class="box-painel-blue" style="background-image: url(assets/images/bg-lab.jpg);">
+										<div class="wrap">
+											<h5>22.10 | GOVERNANÇA AMBIENTAL, SOCIAL E CORPORATIVA (ESG) – RELEVÂNCIA NO CONTEXTO ATUAL </h5>
+											<p>Governos, executivos, investidores, influenciadores, consumidores: todos não admitem mais o modelo econômico baseado somente na produção e consumo. A consciência em uma economia sustentável, ética, que traga ganhos para todos, que se baseie no social – na responsabilidade do setor privado na sociedade, nas políticas públicas, ambiental e econômica nunca esteve tanto em voga e influenciado o direcionamento e decisões quanto à onde investir, onde comprar e, também, na agregação de valor do produto, do país, da empresa. Faz-se importante nesse momento discutir a agenda ESG e a condução dela no Brasil e Países Árabes. </p>
+											<p>PRINCIPAIS PONTOS A SEREM ABORDADOS
+												<br/>- Relevância da ESG* no contexto internacional: Impacto no futuro econômico das empresas e na atração de investimentos; 
+												<br/>- “O papel do Halal no desenvolvimento sustentável” ou “do Halal para o Halal Sustentável”; 
+												<br/>- O papel e importância das Câmaras de Comércio na agenda;
+												<br/>- As Câmaras de Comércio como agentes impulsionadores na agenda da Governança Ambiental, Social e Corporativa;
+											</p>
+										</div>
 									</div>
 								</div>
 							</div>
-						</div>
-						<!-- end row -->
+							<!-- end row -->
 
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-</section>
+	</section>
 
-<?php require("footer.php"); ?>
+	<?php require("footer.php"); ?>
